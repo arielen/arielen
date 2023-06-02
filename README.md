@@ -1,22 +1,50 @@
 ### Hll wrld 👋
 
-<!--
-**arielen/arielen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a BackEnd Developer, Data Scientist
+- 💪 I like to write code
+- 🥅 I am constantly learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# My Stats
+### Connect with me:
 
-<div style="display : flex; align-items : center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielen&theme=midnight-purple&hide_border=true&border_radius=30px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arielen&theme=midnight-purple&hide_border=true&border_radius=30px"/>
+[<img align="left" alt="touch_con | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
+
+<br/>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=py,c,cpp,cs,js)](https://skillicons.dev)
+
+### Tools:
+<div align="center">
+  
+#### Using OS
+  <p align="center">
+    <a href="https://github.com/torvalds">
+      <img src="https://skillicons.dev/icons?i=linux" />
+    </a>
+  </p>
+  
+#### Editors
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio" />
+    </a>
+  </p>
+
+#### Frameworks
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=django,fastapi,qt,react,vue,selenium" />
+    </a>
+  </p>
 </div>
+
+###  <summary>:zap: Statistics:</summary>
+  <div style="display : flex; align-items : center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arielen&theme=midnight-purple&hide_border=true&border_radius=30px"/>
+    <br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielen&theme=midnight-purple&hide_border=true&border_radius=30px"/>
+  </div>
+
+
+[Telegram]:https://t.me/touch_con
