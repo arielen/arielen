@@ -6,13 +6,24 @@
 - 🥅 I am constantly learning new things
 
 ### Connect with me:
-
-[<img align="left" alt="touch_con | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
-
-<br/>
+  <p align="center">
+    <a href="https://t.me/touch_con/">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" width="40px" alt="tg"/>
+    </a>
+    <a href="https://vk.com/alicesosunova">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" width="40px" alt="vk"/>
+    </a>
+    <a href="mailto:bafometelize@gmail.com&subject=github_readme">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" width="40px" alt="gmail"/>
+    </a>
+  </p>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=py,c,cpp,cs,js)](https://skillicons.dev)
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,js" />
+    </a>
+  </p>
 
 ### Tools:
 <div align="center">
@@ -40,11 +51,8 @@
 </div>
 
 ###  <summary>:zap: Statistics:</summary>
-  <div style="display : flex; align-items : center">
+  <div style="display : flex; align-items : center" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=arielen&theme=midnight-purple&hide_border=true&border_radius=30px"/>
     <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielen&theme=midnight-purple&hide_border=true&border_radius=30px"/>
   </div>
-
-
-[Telegram]:https://t.me/touch_con
