@@ -20,9 +20,7 @@
 
 ### Languages:
   <p align="center">
-    <a href="">
       <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,js" />
-    </a>
   </p>
 
 ### Tools:
@@ -37,16 +35,12 @@
   
 #### Editors
   <p align="center">
-    <a href="">
       <img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio" />
-    </a>
   </p>
 
 #### Frameworks
   <p align="center">
-    <a href="">
       <img src="https://skillicons.dev/icons?i=django,fastapi,qt,react,vue,selenium" />
-    </a>
   </p>
 </div>
 
@@ -55,4 +49,13 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=arielen&theme=midnight-purple&hide_border=true&border_radius=30px"/>
     <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielen&theme=midnight-purple&hide_border=true&border_radius=30px"/>
+  </div>
+
+### 💻 Codewars:
+  <div style="display : flex; align-items : center" align="center">
+    <p align="center">
+      <a href="https://www.codewars.com/users/arielen" target="_blank">
+        <img align="center" src="https://www.codewars.com/users/arielen/badges/large"/>
+      </a>
+    </p>
   </div>
