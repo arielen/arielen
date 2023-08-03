@@ -7,13 +7,13 @@
 
 ### Connect with me:
   <p align="center">
-    <a href="https://t.me/touch_con/">
+    <a href="https://t.me/touch_con/" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" width="40px" alt="tg"/>
     </a>
-    <a href="https://vk.com/alicesosunova">
+    <a href="https://vk.com/alicesosunova" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" width="40px" alt="vk"/>
     </a>
-    <a href="mailto:bafometelize@gmail.com&subject=github_readme">
+    <a href="mailto:bafometelize@gmail.com&subject=github_readme" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" width="40px" alt="gmail"/>
     </a>
   </p>
