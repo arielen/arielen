@@ -14,7 +14,7 @@ I'm driven by my love for problem-solving and enjoy working with cutting-edge te
 <div align="center">
   <a href="https://t.me/touch_con" target="_blank"><img alt="Telegram" height="40" width="40" src="https://cdn.simpleicons.org/telegram/gray"/></a>
   <a href="https://vk.com/pnpqnq" target="_blank"><img alt="VK" height="40" width="40" src="https://cdn.simpleicons.org/vk/gray"/></a>
-  <a href="mailto:pavlov_zv@mail.ru&subject=github" target="_blank"><img alt="Mail" height="40" width="40" src="https://cdn.simpleicons.org/maildotru/gray"/></a>
+  <a href="mailto:pavlov_zv@mail.ru" target="_blank"><img alt="Mail" height="40" width="40" src="https://cdn.simpleicons.org/maildotru/gray"/></a>
 </div>
 
 ## 💻 Technologies I Work With
